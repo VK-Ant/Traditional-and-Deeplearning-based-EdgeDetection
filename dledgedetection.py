@@ -38,7 +38,7 @@ blob = cv2.dnn.blobFromImage(img, scalefactor=0.7, size=(W, H),
 
 #View image after preprocessing (blob)
 blob_for_plot = np.moveaxis(blob[0,:,:,:], 0,2)
-plt.imshow(blob_for_plot)
+#cv2.imshow("blob",blob_for_plot)
 
 
 # set the blob as the input to the network and perform a forward pass
@@ -50,4 +50,4 @@ hed = hed[0,0,:,:]  #Drop the other axes
 hed = (255 * hed).astype("uint8")  #rescale to 0-255
 
 
-cv2.imwrite("hed.png",hed)
+cv2.imwrite("DLEdgedetection_output.png",hed)
