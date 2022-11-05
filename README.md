@@ -14,4 +14,9 @@ This github repo is traditional and deeplearning approach of edge detection
 
 ![DLEdgedetection_output](https://user-images.githubusercontent.com/75832198/198841957-49367b41-35f1-4a04-8a30-29a8fcad0b23.png)
 
+4. kornia-canny edge detection
+
+
+![kornia_canny](https://user-images.githubusercontent.com/75832198/200131453-f59d779a-f94f-4746-b82b-e77173bc5075.png)
+
 Feel free to use yourself
