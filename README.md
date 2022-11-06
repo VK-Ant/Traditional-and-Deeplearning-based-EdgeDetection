@@ -4,6 +4,8 @@ Hi guys!
 
 This github repo is traditional and deeplearning approach of edge detection
 
+This method is tradition computer vision using OpenCV library
+
 1. Different filter approach (prewitt,sobel)
 2. Canny
 
