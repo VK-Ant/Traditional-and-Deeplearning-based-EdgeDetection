@@ -19,4 +19,16 @@ This github repo is traditional and deeplearning approach of edge detection
 
 ![kornia_canny](https://user-images.githubusercontent.com/75832198/200131453-f59d779a-f94f-4746-b82b-e77173bc5075.png)
 
+5. DexiNed - Kornia
+
+DexiNed is CNN based architecture, but its totally deeplearning computer vision process (Kornia), And DexiNed gives two output: Fused and Average
+
+1. Average
+   
+![Dexined_avg](https://user-images.githubusercontent.com/75832198/200156376-1bc40c4e-ba71-4582-8df7-25a0017bfab6.png)
+
+2. DexiNed
+
+![dexined_fused](https://user-images.githubusercontent.com/75832198/200156378-99f5fd61-3aa2-4e3e-bb42-b7c5585e5e60.png)
+
 Feel free to use yourself
